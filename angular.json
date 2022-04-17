@@ -33,7 +33,7 @@
             "scripts": [
               "src/assets/js/popper.min.js",
               "src/assets/js/bootstrap.min.js",
-              "src/assets/jsbootstrap.bundle.min.js"
+              "src/assets/js/bootstrap.bundle.min.js"
             ]
           },
           "configurations": {
